@@ -1,5 +1,7 @@
 # TetrisAI.py
 
+![Screenshot](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/627d1225cb1b3d197840427a_60f040a887535b932a3b2b6e_cnn-hero%2520(1).png)
+
 Disclaimer:
 
 The Project is still not finished. It is work in progress
