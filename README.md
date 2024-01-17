@@ -1,7 +1,5 @@
 # TetrisAI.py
 
-![Screenshot](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/627d1225cb1b3d197840427a_60f040a887535b932a3b2b6e_cnn-hero%2520(1).png)
-
 Disclaimer:
 
 The Project is still not finished. It is work in progress
@@ -27,3 +25,6 @@ After training, the model's weights are saved to a file so that they can be load
 The script then starts the game and enters a loop where it continuously captures the current game state, uses the trained model to predict the best action to take, and then performs this action. This loop continues until the game is over.
 
 The `range` class provided is a built-in Python class and is not directly used in the main script. It's a sequence type that represents an immutable sequence of numbers and is commonly used for looping a specific number of times in for loops.
+
+
+![Screenshot](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/627d1225cb1b3d197840427a_60f040a887535b932a3b2b6e_cnn-hero%2520(1).png)
